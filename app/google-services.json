@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70893874471",
+    "firebase_url": "https://vidafit-dc901.firebaseio.com",
+    "project_id": "vidafit-dc901",
+    "storage_bucket": "vidafit-dc901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70893874471:android:b3a9add2d5667c506c0d02",
+        "android_client_info": {
+          "package_name": "com.example.gustavocamossi.vidafit1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70893874471-lonk5790rurfu2dp84cj6kg8qa0gtoqd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gustavocamossi.vidafit1",
+            "certificate_hash": "c960668dc79b0a898fb7a907c1249d0c06bb3019"
+          }
+        },
+        {
+          "client_id": "70893874471-qmaausuei7gid1a9lo8dmrccos70893q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAckuQPafOZs_7itJ8Wt_mu1S9ImwSk81U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70893874471-qmaausuei7gid1a9lo8dmrccos70893q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
